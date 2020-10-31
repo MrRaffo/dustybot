@@ -1,1 +1,3 @@
 prototype/
+venv/
+**/__pycache__/
